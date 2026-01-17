@@ -4,8 +4,7 @@ AD DS is a directory service that provides the methods for storing directory dat
 Microsoft Entra ID is part of the platform as a service (PaaS) offering and operates as a Microsoft-managed directory service in the cloud. 
 With Microsoft Entra ID, you also have access to a set of features that aren’t natively available in AD DS, such as support for multi-factor authentication, identity protection, and self-service password reset.
 
-<img width="1789" height="3432" alt="image" src="https://github.com/user-attachments/assets/f5ab47d4-f6be-4974-9b15-47cd3357ad86" />
-
+<img width="2145" height="900" alt="image" src="https://github.com/user-attachments/assets/4aa12c47-d81a-4a16-aa08-88713cf73f60" />
 
 By default, when you create a new Azure subscription by using a Microsoft account, the subscription automatically includes a new Microsoft Entra tenant named Default Directory.
 
