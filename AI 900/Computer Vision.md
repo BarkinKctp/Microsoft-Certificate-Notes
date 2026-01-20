@@ -1,6 +1,6 @@
-## COMPUTER VISION
+# COMPUTER VISION
 
-### CNN (Convolutional Neural Network)
+## CNN (Convolutional Neural Network)
 
 1. Images with known labels (for example, 0: apple, 1: banana, or 2: orange) are fed into the network to train the model.  
 2. One or more layers of filters is used to extract features from each image as it is fed through the network. The filter kernels start with randomly assigned weights and generate arrays of numeric values called feature maps.  
