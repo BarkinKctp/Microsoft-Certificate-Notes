@@ -1,4 +1,4 @@
-## Fundamentals of Machine Learning
+# Fundamentals of Machine Learning
 
 Fundamentally, a **machine learning model** is a software application that encapsulates a function to calculate an output value based on one or more input values.
 
