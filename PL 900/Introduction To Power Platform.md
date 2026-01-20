@@ -1,7 +1,5 @@
 # Introduction to Microsoft Power Platform
 
----
-
 ## Explore Microsoft Power Platform
 - **Power Apps**
 - **Power Automate**
