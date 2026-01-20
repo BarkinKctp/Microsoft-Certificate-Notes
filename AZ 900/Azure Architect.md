@@ -21,6 +21,8 @@ Each availability zone is made up of one or more datacenters equipped with indep
 - Administrative units are used to delegate the administration of Microsoft Entra resources, such as users and groups.  
 - Accounts are used to provide access to resources.
 
-# Extra
+# Extra :
 
 <img width="2054" height="1092" alt="image" src="https://github.com/user-attachments/assets/14b09374-892f-49b6-8521-3f518c0c1f30" />
+
+
