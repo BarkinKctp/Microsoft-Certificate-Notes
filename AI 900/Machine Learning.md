@@ -1,4 +1,6 @@
-# Fundamentals of Machine Learning
+# MACHINE LEARNING
+
+## Fundamentals of Machine Learning
 
 Fundamentally, a **machine learning model** is a software application that encapsulates a function to calculate an output value based on one or more input values.
 
@@ -6,8 +8,6 @@ Fundamentally, a **machine learning model** is a software application that encap
 - **Inferencing**: Using the trained function to predict new values.
 
 ---
-
-# MACHINE LEARNING
 
 ## Supervised Machine Learning
 
