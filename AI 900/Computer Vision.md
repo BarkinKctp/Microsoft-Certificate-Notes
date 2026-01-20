@@ -1,5 +1,3 @@
----
-
 ## COMPUTER VISION
 
 ### CNN (Convolutional Neural Network)
