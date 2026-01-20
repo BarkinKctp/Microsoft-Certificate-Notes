@@ -1,6 +1,6 @@
 ## Natural Language Processing
 
--**TEXT ANALYSIS**
+**TEXT ANALYSIS**
 
 **Corpus** = a body of text
 
