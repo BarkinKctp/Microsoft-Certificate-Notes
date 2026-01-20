@@ -1,6 +1,4 @@
-## Generative AI
-
----
+# Generative AI
 
 ## GENERATIVE AI CAPABILITIES
 
