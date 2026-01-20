@@ -1,4 +1,4 @@
-## DOCUMENT INTELLIGENT
+## DOCUMENT INTELLIGENT & KNOWLEDGE MINING
 
 ### Azure AI Document Intelligent
 
