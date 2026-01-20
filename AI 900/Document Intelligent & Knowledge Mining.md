@@ -1,6 +1,6 @@
-## DOCUMENT INTELLIGENT & KNOWLEDGE MINING
+# DOCUMENT INTELLIGENT & KNOWLEDGE MINING
 
-### Azure AI Document Intelligent
+## Azure AI Document Intelligent
 
 - **Prebuilt Models**  
   The prebuilt models apply advanced machine learning to accurately identify and extract text, key-value pairs, tables, and structures from forms and documents.
