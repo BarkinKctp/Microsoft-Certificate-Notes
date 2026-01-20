@@ -1,4 +1,4 @@
-## Azure AI Resources
+# Azure AI SERVICES
 
 • **Multi-service resource**:  
 A resource created in the Azure portal that provides access to multiple Azure AI services with a single key and endpoint. Use the Azure AI services resource when you need several AI services or are exploring AI capabilities. When you use a multi-service resource, all AI services are billed together.
