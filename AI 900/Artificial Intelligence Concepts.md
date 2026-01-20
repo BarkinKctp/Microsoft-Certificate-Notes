@@ -1,4 +1,6 @@
-# Machine Learning
+#Artificial Intelligence Concepts
+
+## Machine Learning
 
 - **Azure Machine Learning**
   - **Automated machine learning**: Enables non-experts to quickly create effective machine learning models from data.
@@ -8,7 +10,7 @@
 
 ---
 
-# Computer Vision
+## Computer Vision
 
 - **Image classification**  
   Training a machine learning model to classify images based on their contents.  
@@ -38,14 +40,14 @@
 
 ---
 
-# Natural Language Processing (NLP)
+## Natural Language Processing (NLP)
 
 - **Azure AI Language**
 - **Azure AI Speech**
 
 ---
 
-# Document Intelligence & Knowledge Mining
+## Document Intelligence & Knowledge Mining
 
 - **Document Intelligence Studio**
 - **Azure AI Search**  
@@ -53,13 +55,13 @@
 
 ---
 
-# Generative AI
+## Generative AI
 
 - **Azure OpenAI Service**
 
 ---
 
-# Responsible AI
+## Responsible AI
 
 - **Fairness**
 - **Reliability and Safety**
@@ -70,7 +72,7 @@
 
 ---
 
-# Additional Notes
+## Additional Notes
 
 - Data mining workloads focus on searching and indexing data.
 - Computer vision extracts information from images but is not a search and indexing solution.
