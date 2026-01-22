@@ -1,4 +1,4 @@
-## Identity Concepts
+# Identity Concepts
 
 - **Authentication**: Verifies who a user is.
 - **Authorization**: Determines what an authenticated user can access.
