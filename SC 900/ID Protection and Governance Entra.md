@@ -1,4 +1,4 @@
-## Microsoft Entra ID Protection and Governance
+# Microsoft Entra ID Protection and Governance
 
 ### Microsoft Entra ID Governance
 
